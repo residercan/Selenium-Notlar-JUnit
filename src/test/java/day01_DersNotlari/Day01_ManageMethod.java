@@ -1,4 +1,4 @@
-package day01_DersNotları;
+package day01_DersNotlari;
 
 public class Day01_ManageMethod {
 
